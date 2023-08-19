@@ -4,6 +4,8 @@
 
 **Dr. Giovanni F. Caramori** 
 
+![caramori](caramori.png)
+
 Giovanni  studied chemistry at the Faculty of Philosophy, Sciences, and Letters of the University of São Paulo, in Ribeirão Preto-SP, Brazil, and received his Ph.D. from the same university in 2006 under the supervision of Prof. Dr. Sérgio E. Galembeck. In the same year, he started a post-doctoral period with Prof. Dr. Gernot Frenking at the Philipps-Universität Marburg, Germany. In 2008 he returned to Brazil and joined Prof. Ana Maria da Costa Ferreira's group at IQ-USP. In 2009 he became an assistant professor at the Federal University of Santa Catarina, wherein in 2010 he founded the GEEM group. In 2013 he started a second one-year period as visiting professor working with Prof. Gernot Frenking. Among other honors, Giovanni was named in 2017 affiliated member of the Brazilian Academy of Sciences ([Link](http://www.abc.org.br/2017/08/11/ufsc-recebe-novos-membros-afiliados-da-vice-presidencia-regional-sul-da-abc/)). In 2018 was promoted to associate professor of physical chemistry at the Chemistry Department of the Federal University of Santa Catarina, where he teaches disciplines such as General chemistry, physical chemistry, python coding, and quantum chemistry. He coordinates the GEEM group together with Prof. Dr. Luis Henrique S. Lacerda and is passionate about classical music, particularly classical guitar music, dedicating himself to playing it in his free time.
 
 **Dr. Luis Henrique S. Lacerda**
