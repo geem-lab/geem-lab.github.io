@@ -6,10 +6,10 @@ Welcome to the GEEM website. We are located at the [Department of Chemistry](htt
 
 **[People](people.md)**
 
-**Publications**
+**[Publications](publications.md)**
 
-**Colaborations**
+**[Collaborations](collaborations.md)**
 
-**Research topics**
+**[Research topics](research.md)**
 
 
