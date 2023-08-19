@@ -1,4 +1,6 @@
-## Faculty
+## Members
+
+### Faculty
 
 **Dr. Giovanni F. Caramori** 
 
@@ -8,7 +10,6 @@ Giovanni  studied chemistry at the Faculty of Philosophy, Sciences, and Letters 
 
 Luis holds a degree in Chemistry from the State University of Ponta Grossa (2012), a Master's degree in Applied Chemistry from the State University of Ponta Grossa (2015), and a Ph.D. in Chemistry from the State University of Ponta Grossa (2019). He completed a post-doctoral internship under the PNPD-CAPES program at the State University of Ponta Grossa (2019-2020) and the State University of Campinas (2020-2022) with FAPESP funding. He is an adjunct professor in the area of physical chemistry at the chemistry department of the Federal University of Santa Catarina (UFSC) and co-leader of the Molecular Electronic Structure Group (GEEM). Likewise, he has experience in chemistry and physical chemistry, working mainly with computer simulations based on Density Functional Theory (DFT) to study the chemistry of materials, drugs and other organic compounds, magnetic materials, organometallic coordination compounds, supramolecular chemistry, polymers, catalysis, and photocatalysis. His current research interests focus on the study of intelligent materials for technological, environmental, and biological applications. 
 ***
-## Current Members
 
 ### Ph.D Students
 
