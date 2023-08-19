@@ -22,7 +22,17 @@
 
 7. **Sesquiterpene Lactones from Vernonia Scorpioides and Their in Vitro Cytotoxixity**, Buskuhl, H.; de Oliveira, F. L.; Blind, L. Z.; de Freitas, R. A.; Barison, A.; Campos, F. R.; Corilo, Y. E.; Eberlin, M. N.; Caramori, G. F.; Biavatti, M. W.  [*Phytochemistry*  **2010*, *71*, 1539-1544](https://www.sciencedirect.com/science/article/abs/pii/S0031942210002281).
 
-8. 
+8. **The Effects of N-Heterocyclic Ligands on the Nature of Ru-NO Bond in Ruthenium Tetraammine Nitrosyl Complexes**, Caramori, G. F.; Frenking, G.  [*Croat. Chem. Acta*  **2009**, *82*, 219-232](https://hrcak.srce.hr/38648).
+
+9. **Oxindole-Schiff Base Copper(II) Complexes Interactions with Human Serum Albumin: Spectroscopic, Oxidative Damage, and Computational Studies**, Silveira, V. C.; Caramori, G. F.; Abbott, M. P.; Gonçalves, M. B.; Petrilli, H.; Ferreira, A. M. C. D.  [*J. Inorg. Biochem.*  **2009**, *103*, 1331-1341](https://www.sciencedirect.com/science/article/pii/S0162013409001196).
+
+10. **Aromaticidade Evolução Histórica do Conceito e Critérios Quantitativos**, Caramori, G. F.; Oliveira, K. T.  [*Química Nova* **2009**, *32*, 1871-1884. (Front Cover)](http://quimicanova.sbq.org.br/detalhe_artigo.asp?id=435).
+
+11. **Analysis of the Metal-Ligand Bond in [Mo(X)(NH2)3] (X= P, PO, and NO), [Mo(CO)5(NO)]+, and [Mo(CO)5(PO)]+**, Caramori, G. F.; Frenking. G. [*Theor. Chem. Acc.* **2008**, *120*, 351-361](https://link.springer.com/article/10.1007%2Fs00214-008-0435-6).
+
+12. **The Nature of the Interactions between Pt4 Cluster and the Adsorbates •H, •OH, and H2O**, Parreira, R. L. T.; Caramori, G. F.; Galembeck, S. E.; Huguenin, F. [*J. Phys. Chem. A.* **2008**, *112*, 11731-11743](https://pubs.acs.org/doi/abs/10.1021/jp8033177).
+
+13. **A Computational Study of Tetrafluoro-[2.2]Cyclophanes**, Caramori, G. F.; Galembeck, S. E. [*J. Phys. Chem. A.* **2008**, *112*, 11784-11800](https://pubs.acs.org/doi/abs/10.1021/jp805125r).
 
 ### 2003 - 2007
 
