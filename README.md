@@ -1,4 +1,4 @@
-## geem-lab.github.io
+## [geem-lab.github.io](https://geem-lab.github.io/)
 
 ## [GEEM - Molecular Electronic Structure Group](https://geem-lab.github.io/)
 
