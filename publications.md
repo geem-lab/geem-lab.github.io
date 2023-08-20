@@ -30,13 +30,54 @@
 
 12. **Transport Properties of Ruthenophanes – A Theoretical Insight**, Garcia, L. C.; Caramori, G. F.; Bergamo, P. A. S.; Parreira, R. L. T. [*Chem. Phys.* **2016**, *478*, 23-33](https://www.sciencedirect.com/science/article/pii/S0301010416301501).
 
-13. **Polar Order and Symmetry Breaking between Bent-Core and Rodlike Molecular Forms: When 4-Cyanoresorcinol Meets Carbosilane End Group**, Westphal, E.; Gallardo, H.; Caramori, G. F.; Sebástian, N.; Tamba, M. G.; Eremin, A.; Kawauchi, S.; Prehm, M.; Tschierske, C. [*Chem. A Eur. J.* **2016**, *22*, 1-18](https://onlinelibrary.wiley.com/doi/full/10.1002/chem.201503901).
+13. **Polar Order and Symmetry Breaking between Bent-Core and Rodlike Molecular Forms: When 4-Cyanoresorcinol Meets Carbosilane End Group**, Westphal, E.; Gallardo, H.; Caramori, G. F.; Sebástian, N.; Tamba, M. G.; Eremin, A.; Kawauchi, S.; Prehm, M.; Tschierske, C. [*Chem. Eur. J.* **2016**, *22*, 1-18](https://onlinelibrary.wiley.com/doi/full/10.1002/chem.201503901).
 
 14. **Hydrazine Decomposition on a Small Platinum Cluster: The Role of N2H5 Intermediate**, Pelegrini, M.; Parreira, R. L. T.; Ferrão, L. F. A.; Caramori, G. F.; Ortolan, A. O.; da Silva, E. H.; Roberto-Neto, O.; Rocco, J. A. F. F.; Machado, F. B. C. [*Theor. Chem. Acc.* **2016**, *135*, 1-12](https://link.springer.com/article/10.1007/s00214-016-1816-x).
 
 15. **A Ruthenium Polypyridyl Complex with the Antihypertensive Drug Varsatan: Synthesis, Theoretical Calculations, and Interaction Studies with Human Serum Albumin**, Oliveira, R. S.; Boffo, E. F.; Reis, F. C. C.; Nikolau, S.; Andriani, K. F.; Caramori, G. F.; Doro, F. G. [*Polyhedron* **2016**, *114*, 232-241](https://www.sciencedirect.com/science/article/pii/S0277538715007792).
 
-16. 
+16. **The Versatile Ruthenium(II/III) Tetraazamacrocycle complexes and their Nitrosyl Derivatives**, Doro, F. G.; Ferreira, K. Q.; da Rocha, Z. N.; Caramori, G. F.; Gomes, A. J.; Tfouni, E. [*Coord. Chem. Rev.* **2016**, *306*, 652-677](https://www.sciencedirect.com/science/article/pii/S0010854515001186).
+
+17. **Role of the Cation Formal Charge into Cation–π interaction. A Survey Involving the [2.2.2]Paracyclophane Host from Relativistic DFT Calculations**, Ortolan, A. O.; Caramori, G. F.; Frenking, G.; Muñoz-Castro, A. [*New J. Chem.* **2015**, *39*, 9963-9968](https://pubs.rsc.org/en/content/articlelanding/2015/nj/c5nj02384j#!divAbstract).
+
+18. **Ruthenium Nitrosyl Complexes Containing Pyridine-functionalized carbenes – A Theoretical Insight**, Caramori, G. F.; Ortolan, A. O.; Parreira, R. L. T.; da Silva, E. H. [*J. Organomet. Chem.* **2015**, *799-800*, 54-60](https://www.sciencedirect.com/science/article/pii/S0022328X15301200).
+
+19. **The influence of L ligands on the {RuNO}6/7 bonding situation in cis-[Ru(NO)(NO2)L1–4]^q complexes: a theoretical insight**, Andriani, K. F.; Caramori, G. F.; Muñoz-Castro, A.; Doro, F. G. [*RSC Adv.* **2015**, *5*, 69057-69066](https://pubs.rsc.org/en/content/articlelanding/2015/ra/c5ra10888h#!divAbstract).
+
+20. **Synthesis and Solvatochromism of Substituted 4-(Nitrostyryl)phenolate Dyes**, Stock, R.; Nandi, L.; Nicoleti, C.; Schramm, A.; Meller, S.; Heying, R.; Coimbra, D. F.; Andriani, K. F.; Caramori, G. F.; Bortoluzzi, A.; Machado, V. G. [*J. Org. Chem.*  **2015**, *80*, 7971-7983](https://pubs.acs.org/doi/abs/10.1021/acs.joc.5b00983).
+
+21. **No Need for a Re-examination of the Electrostatic Notation of the H-Bonding*, Frenking, G.; Caramori, G. F. [*Angew. Chem. Int. Ed.*  **2015**, *54*, 2596-2599](https://onlinelibrary.wiley.com/doi/abs/10.1002/anie.201411374).
+
+22. **No Need for a Re-examination of the Electrostatic Notation of the H-Bonding**, Frenking, G.; Caramori, G. F. [*Angew. Chem.*  **2015**, *127*, 2632-2635](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ange.201411374).
+
+23. **[2.2.2]Paracyclophane, preference for η6 or η18 coordination mode including Ag(I) and Sn(II): a survey into the cation–π interaction nature through relativistic DFT calculations*, Ulloa, C. O.; Ponce-Vargas, M.; Piccoli, R. M.; Caramori, G. F.; Muñoz-Castro, A. [*RSC Adv.*  **2015**, *5*, 7803-7811](https://pubs.rsc.org/en/content/articlelanding/2015/ra/c4ra12859a#!divAbstract).
+
+24. **Cyclic Trinuclear copper(I), silver(I), and gold(I) complexes: A Theoretical Insight**, Caramori, G. F.; Piccoli, R. M.; Segala, M.; Muñoz-Castro, A.; Guajaro-Maturana, R.; Andrada, D. M.; Frenking, G. [*Dalton Trans.* **2015**, *44*, 377-385](https://pubs.rsc.org/en/content/articlelanding/2015/dt/c4dt02514h#!divAbstract).
+
+25. **Proton-induced generation of remote N-heterocyclic carbene-Ru complexes**, Fukushima, T.; Fukuda, R.; Kobayashi, K.; Caramori, G. F.; Frenking, G.; Ehara, M. Tanaka, K. [*Chem. Eur. J.* **2015**, *21*, 106-110](https://onlinelibrary.wiley.com/doi/abs/10.1002/chem.201404932).
+
+26. **Strontium Mono-Chloride – A New Molecule for the Determination of Chlorine Using High-resolution Graphite Furnace, Molecular Absorption Spectrometry and Direct Solid Sample Analysis**, Pereira, E. R.; Welz, B.; Lopez, A. H. D.; De Gois, J.; Caramori, G. F.; Borges, D. L. G.; Carasek, E. de Andrade, J. B. [*Spectrochim. Acta B* **2014**, *102*, 1-6](https://www.sciencedirect.com/science/article/pii/S0584854714002699).
+
+27. **Ruthenium(II) complexes of N-heterocyclic carbenes derived from imidazolium-linked cyclophanes**, Caramori, G.; Garcia, L. C.; Andrada, D. M.; Frenking, G. [*Dalton Trans.* **2014**, *43*, 14710-14719](https://pubs.rsc.org/en/Content/ArticleLanding/2014/DT/C4DT01473A#!divAbstract).
+
+28. **Ruthenophanes: Evaluating cation-π interactions in [Ru(η6-C16H12R4)(NH3)3]2+/3+ Complexes. A Computational Insight**, Caramori, G. F.; Garcia, L. C.; Andrada, D. M.; Frenking, G. [*Organometallics* **2014**, *33*, 2301-2312](https://pubs.acs.org/doi/abs/10.1021/om500203u).
+
+29. **Ruthenium(II)/4,6-dimethyl-2-mercaptopyrimidine complexes: Synthesis, characterization, X-ray structures and in vitro cytotoxicity activities on cancer cell lines**, Mondeli, M. A.; Graminha, A. E.; Corrêa, R. S.; da Silva, M. M.; Carnizelo, A. P.; von Poelhsitz, G.; Ellena, J.; Deflon, V. M.; Caramori, G. F.; Torre, M. H.; Tavares. D. C.; Batista, A. A. [*Polyhedron* **2014**, *68*, 312-318](https://www.sciencedirect.com/science/article/pii/S0277538713007468).
+
+30. **Ureasil-Poly(ethylene oxide) Hybrid Matrix for Selective Adsorption and Separation of Dyes from Water**, Molina, E.; Parreira, R. L. T.; de Faria, E.; Carvalho, H.; Caramori, G. F.; Coimbra, D. F.; Nassar, E.; Ciuffi, K. [*Langmuir* **2014**, *30*, 3857-3868](https://pubs.acs.org/doi/abs/10.1021/la404812e).
+
+31. **Spectroscopy and Theoretical Studies of Natural Melanin (eumelanin), and its Complexation by Iron(III)**, Szpoganicz, B.; Caramori, G. F.; et. all.[*Inorg. Chim. Acta* **2014**, *67*, 986-1001](https://www.tandfonline.com/doi/abs/10.1080/00958972.2014.905686#.VGPO48nEp2k).
+
+32. **Ru–NO and Ru–NO2 Bonding Linkage Isomerism in cis-[Ru(NO)(NO)(bpy)2]2+/+ Complexes – A Theoretical Insight**, Andriani, K. F.; Caramori, G. F.; Doro, F. G.; Tfouni, E. [*Dalton Trans.* **2014**, *43*, 8792-8804](https://pubs.rsc.org/en/Content/ArticleLanding/2014/DT/c4dt00016a#!divAbstract).
+
+33. **The Two Faces of Hydrogen-Bond Strength on Triple AAA-DDD Arrays**, Lopez, A. H. D.; Caramori, G. F.; Coimbra, D. F.; Parreira, R. L. T. [*Chem.Phys.Chem.* **2013**, *14*, 3994-4001](https://onlinelibrary.wiley.com/doi/abs/10.1002/cphc.201300639).
+
+34.  **Polyacetylenes from the Leaves of Vernonia Scorpioides (Asteraceae) and Their Antiherpetic Activities**, Pollo, L.; Bosi, C.; Leite, A.; Rigotto, C.; Simoes, C.; Fonseca, D. E. P.; Coimbra, D. F.; Caramori, G. F.; Nepel, A.; Campos, F.; Barison, A.; Biavatti, M. [*Phytochemistry* **2013**, *95*, 375-383](https://www.sciencedirect.com/science/article/pii/S0031942213002823).
+
+35.  **The Ru-NO Bonding in Nitrosyl-[poly(1-pyrazolyl)borate]ruthenium Complexes – A Theoretical Insight Based on Su-Li EDA**, Caramori, G. F.; Kunitz, A. G.; Coimbra, D. F.; Garcia, L. C.; Fonseca, D. E. P. [*J. Braz. Chem. Soc.* **2013**, *24*, 1487-1496](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-50532013000900013&lng=en&nrm=iso&tlng=en).
+
+36.  **Investigating the Ritter-type Reaction of α-Methylene-β-hydroxy Esters in Acidic Medium: Evidence for the Intermediacy of an Allylic Carbenium**, Sá, M. M.; Ferreira, M.; Caramori, G. F.; Zaramello, L.; Bortoluzzi, A. J.; Faggion Jr. D.; Domingos, J. B. [*Eur. J. Org. Chem.* **2013**, 5180-5187](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201300035).
+
 
 
 
