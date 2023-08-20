@@ -4,6 +4,8 @@
 
 ### 2018 - 2022
 
+1.
+
 ### 2013 - 2017
 
 1. **How the Electron-Deficient Cavity of Heterocalixarenes Recognizes Anions. Insights from Computation**, Ortolan, A. O.; Caramori, G. F.; Bickelhaupt, F. M.; Parreira, R. L. T.; Muñoz-Castro, A.; Kar, T. [*Phys. Chem. Chem. Phys.* **2017**, *19*, 24696-24705](http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp03925e#!divAbstract).
@@ -78,8 +80,11 @@
 
 36.  **Investigating the Ritter-type Reaction of α-Methylene-β-hydroxy Esters in Acidic Medium: Evidence for the Intermediacy of an Allylic Carbenium**, Sá, M. M.; Ferreira, M.; Caramori, G. F.; Zaramello, L.; Bortoluzzi, A. J.; Faggion Jr. D.; Domingos, J. B. [*Eur. J. Org. Chem.* **2013**, 5180-5187](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejoc.201300035).
 
+37.  **Synthetic Pathway for a New Series of Liquid Crystal 2,6-Disubstituted imidazo[2,1-b][1,3,4]thiadiazole**, Gallardo, H.; Santos, D. M. P. O.; Caramori, G. F.; Molin, F.; Bechtold, I. H. [*Liq. Cryst.*  **2013**, *40*, 570-580](https://www.tandfonline.com/doi/abs/10.1080/02678292.2013.777977?journalCode=tlct20).
 
+38.  **Peculiar Reactivity of a Di-imine Copper(II) Complex Regarding its Binding to Albumin Protein**, Silveira, V. C.; Abbott, M. P.; Cavicchioli, M.; Golçalves, M. B.; Petrilli, H. M.; de Rezende, L.; Amaral, A. T.; Fonseca, D. E. P.; Caramori, G. F.; Ferreira, A. M. D. C. [*Dalton Trans.*  **2013**, *42*, 6386-6396](https://pubs.rsc.org/en/Content/ArticleLanding/2013/DT/c3dt00108c#!divAbstract).
 
+39.  **Nanoparticle Translocation through a Lipid Bilayer Tuned by Surface Chemistry**, Rocha, E. L.; Caramori, G. F.; Rambo, C. R. [*Phys. Chem. Chem. Phys.*  **2013**,*15*, 2282-2290. (Front Cover)](https://pubs.rsc.org/en/Content/ArticleLanding/2013/CP/c2cp44035k#!divAbstract).
 
 ### 2008 - 2012
 
