@@ -6,6 +6,40 @@
 
 ### 2013 - 2017
 
+1. **How the Electron-Deficient Cavity of Heterocalixarenes Recognizes Anions. Insights from Computation**, Ortolan, A. O.; Caramori, G. F.; Bickelhaupt, F. M.; Parreira, R. L. T.; Muñoz-Castro, A.; Kar, T. [*Phys. Chem. Chem. Phys.* **2017**, *19*, 24696-24705](http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp03925e#!divAbstract).
+
+2. **Metal-Ligand Bonding Situation in Ruthenophanes Containing Multibridged Cyclophanes**, Galembeck, S. E.; Caramori, G. F.; Misturini, A.; Garcia, L. C.; Orenha, R. P. [*Organometallics*, **2017**, *36*, 3465–3470](https://pubs.acs.org/doi/abs/10.1021/acs.organomet.7b00393).
+
+3. **In vivo and in silico anti-inflammatory mechanism of action of the semisynthetic (-)-cubebin derivatives (-)-honokinin and (-)-O-benzylcubebin**, Lima, T. C.; Lucarini, R.; Volpe, A. C.; De Andrade, C. Q.; Souza, A. M.; Pauletti, P. M.; Januario, A. H.; Simaro, G. V.; Bastos, J. K.; Cunha, W. R.; Borges, A.; Laurentiz, R. S.; Conforti. V. A.; Parreira, R. L. T.; Borges, C. H.; Caramori, G. F.; Andriani, K. F. [*Bioorg. Med. Chem. Lett.* **2017**, *27*, 176-179](https://www.sciencedirect.com/science/article/pii/S0960894X16312525?via%3Dihub).
+
+4. **Metal-Ligand Bonding situation in Ruthenophanes containing i,j-xylylene-linked-bis(NHC)cyclophane Ligands**, Ortolan, A. O.; Caramori, G. F.; Garcia, L. C.; Parreira, R. L. T.; Bento, M, V. B. [*J. Organomet. Chem.* **2017**, *830*, 100-108](https://www.sciencedirect.com/science/article/pii/S0022328X16305563).
+
+5. **Solvation Enhances the Distinction between Carboxylated Armchair and Zigzag Single-wall Carbon Nanotubes (SWNT-COOH)**, Kar, T.; Adhikari, U.; Scheiner, S.; Roy, A. K.; Parreira, R. L. T.; Bergamo, P. A. S.; Caramori, G. F.; Schneider, F.S. S. [*J. Phys. Chem. C* **2017**, *121*, 9516-9527](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b10676).
+
+6. **Electronic Properties and Metal-ligand Bonding Situation in Eu(III) Complexes Containing Tris(pyrazolyl)borate and Phenantroline Ligands**, Parreira, R. l. T.; Nassar, E. J.; Silva, E. H.; Rocha, L. A.; Bergamo, P. A. S.; Ferreira, C. M. A.; Kar, T.; Fonseca, D. E. P; Coimbra, D. F.; Caramori, G. F. [*J. Luminescence* **2017**, *182*, 137-145](https://www.sciencedirect.com/science/article/pii/S0022231316305737).
+
+7. **Removal of the emerging contaminant bisphenol A by an ureasil–PEO hybrid membrane: experimental study and molecular dynamic simulation**, de Oliveira, L. K.; Alves, A. L. A.; Barbosa, V.; Parreira, R. L. T.; Banegas, R. S.; Caramori, G. F.; Ciuffi, K. J.; Molina, E. F. [*Environ Sci Pollut Res* **2017**, *24*, 18421–18433](https://link.springer.com/article/10.1007/s11356-017-9434-2).
+
+8. **An Evaluation of Electron Donation as a Mechanism of the Stabilization of Chalcogenated-Protected Nanoclusters**, Segala, M.; Schneider, F. S. S.; Caramori, G. F.; Parreira, R. L. T. [*ChemPhysChem* **2016**, *17*, 3102-3111](https://onlinelibrary.wiley.com/doi/full/10.1002/cphc.201600552).
+
+9. **Shedding Light on the Nature of Host-Guest Interactions in PAHs-ExBox4+ Complexes**, Nagurniak, G. R.; Caramori, G. F.; Parreira, R. L. T.; Bergamo, P. A. S.; Frenking, G.; Muñoz-Castro, A. [*J. Phys. Chem. C*  **2016**, *120*, 15480-15487](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.6b04844)
+
+10. **Copaifera duckei Oleoresin and Its Main non Volatile Terpenes: In vitro Schistosomicidal Properties**, Borges, C.; Cruz, M.; Carneiro, L.; da Silva, J.; Bastos, J.; Tavares, D.; Roges, H.; Rodrigues, V.; Veneziani, R.; Parreira, R. L. T.; Caramori, G. F.; Nagurniak, G.; Magalhães, L.; Ambrósio, S. R. J. [*J. Chem. Biodiv.* **2016**, *13*, 1348-1356](https://onlinelibrary.wiley.com/doi/abs/10.1002/cbdv.201600065).
+
+11. **Bonding Analysis in Homo- and Hetero-Trihalides Species: A Charge Displacement Study**, Ciancaleoni, G.; Arca, M.; Caramori, G. F.; Frenking, G.; Schneider, F. S. S.; Lippolis, V. [*Eur. J. Inorg. Chem.* **2016**, *2016*, 3804-3812](https://onlinelibrary.wiley.com/doi/abs/10.1002/ejic.201600471).
+
+12. **Transport Properties of Ruthenophanes – A Theoretical Insight**, Garcia, L. C.; Caramori, G. F.; Bergamo, P. A. S.; Parreira, R. L. T. [*Chem. Phys.* **2016**, *478*, 23-33](https://www.sciencedirect.com/science/article/pii/S0301010416301501).
+
+13. **Polar Order and Symmetry Breaking between Bent-Core and Rodlike Molecular Forms: When 4-Cyanoresorcinol Meets Carbosilane End Group**, Westphal, E.; Gallardo, H.; Caramori, G. F.; Sebástian, N.; Tamba, M. G.; Eremin, A.; Kawauchi, S.; Prehm, M.; Tschierske, C. [*Chem. A Eur. J.* **2016**, *22*, 1-18](https://onlinelibrary.wiley.com/doi/full/10.1002/chem.201503901).
+
+14. **Hydrazine Decomposition on a Small Platinum Cluster: The Role of N2H5 Intermediate**, Pelegrini, M.; Parreira, R. L. T.; Ferrão, L. F. A.; Caramori, G. F.; Ortolan, A. O.; da Silva, E. H.; Roberto-Neto, O.; Rocco, J. A. F. F.; Machado, F. B. C. [*Theor. Chem. Acc.* **2016**, *135*, 1-12](https://link.springer.com/article/10.1007/s00214-016-1816-x).
+
+15. **A Ruthenium Polypyridyl Complex with the Antihypertensive Drug Varsatan: Synthesis, Theoretical Calculations, and Interaction Studies with Human Serum Albumin**, Oliveira, R. S.; Boffo, E. F.; Reis, F. C. C.; Nikolau, S.; Andriani, K. F.; Caramori, G. F.; Doro, F. G. [*Polyhedron* **2016**, *114*, 232-241](https://www.sciencedirect.com/science/article/pii/S0277538715007792).
+
+16. 
+
+
+
 ### 2008 - 2012
 
 1. **Hydrogen Bonds and the Resonance Effect on the Formamide-Water Complexes**, Parreira, R. L. T.; Caramori, G. F.; Morgon, N. H.; Galembeck, S. E. [*Int. J. Quantum Chem.*  **2012**, *112*, 1401-1420](https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.23124).
@@ -20,7 +54,7 @@
 
 6. **Interactions of Di-Imine Copper(II) Complexes with Albumin: Competitive Equilibria, Promoted Oxidative Damage and DFT Studies**, Azzellini, M. A. A.; Abbott, M. P.; Machado, A.; Miranda, M. T. M.; Garcia, L. C.; Caramori, G. F.; Goncalves, M. B.; Petrilli, H.; Ferreira, A. M. D. C.  [*J.  Braz. Chem. Soc.*  **2010**, *21*, 1303-1317](http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0103-50532010000700018&lng=en&nrm=iso&tlng=en).
 
-7. **Sesquiterpene Lactones from Vernonia Scorpioides and Their in Vitro Cytotoxixity**, Buskuhl, H.; de Oliveira, F. L.; Blind, L. Z.; de Freitas, R. A.; Barison, A.; Campos, F. R.; Corilo, Y. E.; Eberlin, M. N.; Caramori, G. F.; Biavatti, M. W.  [*Phytochemistry*  **2010*, *71*, 1539-1544](https://www.sciencedirect.com/science/article/abs/pii/S0031942210002281).
+7. **Sesquiterpene Lactones from Vernonia Scorpioides and Their in Vitro Cytotoxixity**, Buskuhl, H.; de Oliveira, F. L.; Blind, L. Z.; de Freitas, R. A.; Barison, A.; Campos, F. R.; Corilo, Y. E.; Eberlin, M. N.; Caramori, G. F.; Biavatti, M. W.  [*Phytochemistry*  **2010**, *71*, 1539-1544](https://www.sciencedirect.com/science/article/abs/pii/S0031942210002281).
 
 8. **The Effects of N-Heterocyclic Ligands on the Nature of Ru-NO Bond in Ruthenium Tetraammine Nitrosyl Complexes**, Caramori, G. F.; Frenking, G.  [*Croat. Chem. Acta*  **2009**, *82*, 219-232](https://hrcak.srce.hr/38648).
 
