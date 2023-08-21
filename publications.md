@@ -2,11 +2,27 @@
 
 ## Scientific Publications
 
-### 2023 - 2025
+### 2023 - 2027
 
 ### 2018 - 2022
 
-1.
+1. **Tracking the Role of trans–Ligands on Ruthenium–NO Bond Lability: A Computational Insight**, Orenha, R. P.; Silva, G. C. G.; Batista, A. P. L.; de Oliveira-Filho, A. G. S.; Morgon, N. H.; Silva, V. B.; Furtado, S. S.P.; Caramori, G. F.; Piotrowski,M. J.; Parreira, R. L. T.,  [*New J. Chem.* **2020**, *44*, 11448-11456](https://pubs.rsc.org/en/content/articlepdf/2020/NJ/D0NJ01340D?page=search).
+
+2. **Synthesis, Characterization and Photoinduced CO-Release by Manganese(I) Complexes**,  Amorim, A. L.; Guerreiro, A.; Glitz, V. A.; Coimbra, D. F.; Bortoluzzi, A. J.; Caramori, G. F.; Braga, A. L.;Neves, A.; Bernardes, G. J. L.; Peralta, R. A. [*New J. Chem.* **2020**, *44*, 10892-10901](https://pubs.rsc.org/en/Content/ArticleLanding/2020/NJ/D0NJ02260H#!divAbstract).
+
+3. **Platinum-triggered Bond-cleavage of Pentynoyl amide and N-propargyl handles for Drug-Activation**,  Oliveira, B. L.; Stenton, B. J.; Unnikrishnan, V. B.; de Almeida, C. R.; Conde, J.; Negrão, M.; Schneider, F. S. S.; Cordeiro, C.; Ferreira, M. G.; Caramori, G. F.; Domingos, J. B.; Fior, R.; Bernardes, G. J. L. [*J. Am. Chem. Soc.*  **2020**, *142*, 10869-10880 (Front Cover)](https://pubs.acs.org/doi/10.1021/jacs.0c01622).
+
+4. **Coordination among Bond Formation/Cleavage in a Bifunctional-Catalyzed Fast Amide Hydrolysis: Evidence for an Optimized Intramolecular N-Protonation Event**, Scorsin, L.; Affeldt, R. F.; Oliveira, B. S.; Silveira, E. V.; Ferraz, M. S.; de Souza, F. P. S.; Caramori, G. F.; Menger, F. M.; Souza, B. S.; Nome, F. [*J. Org. Chem.*  **2020**, *85*, 4663-4671](https://pubs.acs.org/doi/full/10.1021/acs.joc.9b03383).
+
+5. **Solvatochromism of new substituted 4-[(E)-(4-nitrophenyl)diazenyl]phenolate dyes**, de Melo, C. E. A.; Nicoleti, C. R.; Nandi, L. G.; Schneider, F. S. S.; Oliboni, R. S.; Caramori, G. F.; Machado, V. G. [*J. Mol. Liq.*  **2020**, *301*, 112330](https://www.sciencedirect.com/science/article/pii/S0167732219357988).
+
+6. **The anionic recognition mechanism based on polyol and boronic acid receptors**, Orenha, R. P.; Cintra, C. H.; Peixoto, L. B.; da Silva, E. H.; Caramori, G. F.; Ortolan, A. O.; Piotrowski, M. J.; Parreira, R. L. T. [*New J. Chem.*  **2020**, *44*, 5564-5571](https://pubs.rsc.org/lv/content/articlehtml/2020/nj/c9nj06200a).
+
+7. **Shedding light on the bonding situation of triangular and square heterometallic clusters: computational insight**, Coimbra, D. F.; Ortolan, A. O.; Orenha, R. P.; da Silva, V. B.; Parreira, R. L. T.; Caramori, G. F. [*New J. Chem.*  **2020**, *44*, 5079-5087](https://pubs.rsc.org/lv/content/articlehtml/2020/nj/c9nj05968g).
+
+8. **How does the acidic milieu interfere in the capability of ruthenium nitrosyl complexes to release nitric oxide?**, Orenha, R. P.; Morgon, N. H.,; Contreras-García, J.; Silva, G. C. G.; Nagurniak, G. R.; Piotrowski, M. J.; Caramori, G. F.; Muñoz-Castro, A.; Parreira, R. L. T. [*New J. Chem.*  **2020**, *44*, 773-779](https://pubs.rsc.org/en/content/articlehtml/2020/nj/c9nj04643g).
+
+9. 
 
 ### 2013 - 2017
 
