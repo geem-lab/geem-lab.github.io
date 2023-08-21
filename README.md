@@ -17,8 +17,9 @@ Welcome to the [GEEM website](https://geem-lab.github.io/). We are located at th
 **[Computational resources and users guide]()**
 
 
----
-### Contacts
+***
+
+### Contact
 > Departamento de Química, CFM,
 > 
 > Universidade Federal de Santa Catarina,
@@ -30,6 +31,7 @@ Welcome to the [GEEM website](https://geem-lab.github.io/). We are located at th
 > Phones: +55-48-3721-3644,
 > 
 > e-mail: giovanni.caramori@ufsc.br
----
+
+***
 
 
