@@ -14,4 +14,13 @@ Welcome to the [GEEM website](https://geem-lab.github.io/). We are located at th
 
 **[Research topics](research.md)**
 
+**[Computational resources and users guide]()**
+
+
+### Contacts
+Departamento de Química, Centro de Ciências Físicas e Matemáticas, CFM.
+Universidade Federal de Santa Catarina –  Campus Universitário Reitor João David Ferreira Lima, C.P. 476 88040-900, Trindade, Florianópolis – SC – Brazil
+Phones: +55-48-3721-3644
+e-mail: giovanni.caramori@ufsc.br
+
 
