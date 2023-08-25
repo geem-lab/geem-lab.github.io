@@ -48,9 +48,10 @@
 
 20. **How does the acidic milieu interfere in the capability of ruthenium nitrosyl complexes to release nitric oxide?**, Orenha, R. P.; Morgon, N. H.,; Contreras-García, J.; Silva, G. C. G.; Nagurniak, G. R.; Piotrowski, M. J.; Caramori, G. F.; Muñoz-Castro, A.; Parreira, R. L. T. [*New J. Chem.*  **2020**, *44*, 773-779](https://pubs.rsc.org/en/content/articlehtml/2020/nj/c9nj04643g).
 
-21. 
 
 ### 2013 - 2017
+
+[//]: # (Caramori's Publications)
 
 1. **How the Electron-Deficient Cavity of Heterocalixarenes Recognizes Anions. Insights from Computation**, Ortolan, A. O.; Caramori, G. F.; Bickelhaupt, F. M.; Parreira, R. L. T.; Muñoz-Castro, A.; Kar, T. [*Phys. Chem. Chem. Phys.* **2017**, *19*, 24696-24705](http://pubs.rsc.org/en/content/articlelanding/2017/cp/c7cp03925e#!divAbstract).
 
@@ -131,6 +132,8 @@
 39.  **Nanoparticle Translocation through a Lipid Bilayer Tuned by Surface Chemistry**, Rocha, E. L.; Caramori, G. F.; Rambo, C. R. [*Phys. Chem. Chem. Phys.*  **2013**,*15*, 2282-2290. (Front Cover)](https://pubs.rsc.org/en/Content/ArticleLanding/2013/CP/c2cp44035k#!divAbstract).
 
 ### 2008 - 2012
+
+[//]: # (Caramori's Publications)
 
 1. **Hydrogen Bonds and the Resonance Effect on the Formamide-Water Complexes**, Parreira, R. L. T.; Caramori, G. F.; Morgon, N. H.; Galembeck, S. E. [*Int. J. Quantum Chem.*  **2012**, *112*, 1401-1420](https://onlinelibrary.wiley.com/doi/abs/10.1002/qua.23124).
 
