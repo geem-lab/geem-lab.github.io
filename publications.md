@@ -160,6 +160,8 @@
 
 ### 2003 - 2007
 
+[//]: # (Caramori's Publications)
+
 1. **Computational Study about Through-bond and Through-space Interactions in [2.2]Cyclophanes**, Caramori, G. F.; Galembeck, S. E. [*J. Phys. Chem. A* **2007**, *111*, 1705-1712](https://pubs.acs.org/doi/abs/10.1021/jp066863h).
 
 2. **Aromaticity in Methano[10]annulenes**, Caramori, G. F.; Oliveira, K. T.; Galembeck, S. E.; Bultinck, P.; Constantino, M. G.  [*J. Org. Chem.* **2007**, *72*, 76-85](https://pubs.acs.org/doi/abs/10.1021/jo061702v).
