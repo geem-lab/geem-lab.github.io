@@ -24,8 +24,7 @@ Welcome to the [GEEM website](https://geem-lab.github.io/). We are located at th
 | Departamento de Química, CFM  | 
 | Campus Universitário Trindade, C.P. 476, 88040-900 | 
 | Trindade, Florianópolis – SC – Brazil | 
-| Phone: +55-48-3721-3644 |
-| e-mail:|
+| Phone: +55-48-3721-3644/3607 |
 | giovanni.caramori@ufsc.br |
 | luis.lacerda@ufsc.br |
 
