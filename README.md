@@ -26,6 +26,7 @@ Welcome to the [GEEM website](https://geem-lab.github.io/). We are located at th
 | Trindade, Florianópolis – SC – Brazil | 
 | Phone: +55-48-3721-3644 |
 | e-mail: giovanni.caramori@ufsc.br |
+|         luis.lacerda@ufsc.br |
 
 ***
 
