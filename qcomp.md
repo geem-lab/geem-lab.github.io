@@ -1,4 +1,6 @@
-##QComp
+## [geem-lab.github.io](https://geem-lab.github.io/)
+
+## Qcomp
 
 QComp is a newsletter for the dissemination of Computational Chemistry, inside and outside the Chemistry department of the Federal University of Santa Catarina. 
 The central objective is to popularize and demystify computational chemistry, particularly in terms of theoretical foundation, conscious use, and applications 
