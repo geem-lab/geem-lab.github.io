@@ -16,6 +16,8 @@ Welcome to the [GEEM website](https://geem-lab.github.io/). We are located at th
 
 **[Computational resources and users guide]()**
 
+**[Science Outreach Project - Qcomp](qcomp.md)**
+
 
 ***
 
