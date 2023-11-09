@@ -34,7 +34,7 @@
 
 14. **Can the relative positions (cis–trans) of ligands really modulate the coordination of NO in ruthenium nitrosyl complexes?**, Orenha, R. P.; Silva, G. C. G.; Morgon, N. H.; Caramori, G. F.; Parreira, R. L. T. [*New J. Chem.*, **2021**,*45*, 1658-1666](https://doi.org/10.1039/D0NJ05262K)
 
-15. **The design of anion–$\pi$ interactions and hydrogen bonds for the recognition of chloride, bromide, and nitrate anions**, Orenha, R. P.; da Silva,V. B.; Caramori, G. F.; Piotrowski, M. J.; Nagurniak, G. R.; Parreira,  R. L. T. [*Phys. Chem. Chem. Phys*, **2021**, *23*, 11455-11465](https://doi.org/10.1039/D1CP00113B)
+15. **The design of anion–π interactions and hydrogen bonds for the recognition of chloride, bromide and nitrate anions**, Orenha, R. P.; da Silva,V. B.; Caramori, G. F.; Piotrowski, M. J.; Nagurniak, G. R.; Parreira,  R. L. T. [*Phys. Chem. Chem. Phys*, **2021**, *23*, 11455-11465](https://doi.org/10.1039/D1CP00113B)
 
 16. 
 
