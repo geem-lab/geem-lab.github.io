@@ -76,7 +76,11 @@
 
 35. **What is the driving force behind molecular triangles and their guests? A quantum chemical perspective about host–guest interactions**, Nagurniak, G. R.; Piotrowski, M. J.; Muñoz-Castro, A.; Cascaldi, J. B. S.; Parreira, R. L. T.; Caramori, G. F. [*Phys. Chem. Chem. Phys.* **2020**, *22*, 19213-19222](https://doi.org/10.1039/D0CP01821J).
 
-36. **ESI‐QTof‐MS characterization of hirsutinolide and glaucolide sesquiterpene lactones: Fragmentation mechanisms and differentiation based on Na+/H+ adducts interactions in complex mixture**, da Silva, L. A. L.; Sandjo, L. P.; Misturini, A.; Caramori, G. F.; Biavatti, M. W. [*J. Mass Spectrom.* **2019**, *54*, 915-932](https://doi.org/10.1002/jms.4433)
+36. **A ruthenium nitrosyl cyclam complex with appended anthracenyl fluorophore**, Gois,R. G. S.; Boffo, E. F.; Toledo-Júnior, J. C.; Andriani, K. F.; Caramori, G. F.; Gomes, A. J.; Doro, F. G. [*Polyhedron*, **2019**, *173*, 114117](https://doi.org/10.1016/j.poly.2019.114117).
+
+37. **ESI‐QTof‐MS characterization of hirsutinolide and glaucolide sesquiterpene lactones: Fragmentation mechanisms and differentiation based on Na+/H+ adducts interactions in complex mixture**, da Silva, L. A. L.; Sandjo, L. P.; Misturini, A.; Caramori, G. F.; Biavatti, M. W. [*J. Mass Spectrom.* **2019**, *54*, 915-932](https://doi.org/10.1002/jms.4433).
+
+38. **Understanding the interplay between π–π and cation–π interactions in [janusene–Ag]+**, Mucelini, J.; Østrøm, I.; ortolan, A. O.; Andriani,  K. F.; Caramori, G. F.; Parreira, R. L. T.; Laali, K. K. [*Dalton Trans.* **2019*, *48*, 13281-13292](https://doi.org/10.1039/C9DT02307K).
 
 
 
