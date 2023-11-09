@@ -74,7 +74,9 @@
 
 34. **How does the acidic milieu interfere in the capability of ruthenium nitrosyl complexes to release nitric oxide?**, Orenha, R. P.; Morgon, N. H.,; Contreras-García, J.; Silva, G. C. G.; Nagurniak, G. R.; Piotrowski, M. J.; Caramori, G. F.; Muñoz-Castro, A.; Parreira, R. L. T. [*New J. Chem.*  **2020**, *44*, 773-779](https://pubs.rsc.org/en/content/articlehtml/2020/nj/c9nj04643g).
 
-35. **ESI‐QTof‐MS characterization of hirsutinolide and glaucolide sesquiterpene lactones: Fragmentation mechanisms and differentiation based on Na+/H+ adducts interactions in complex mixture**, da Silva, L. A. L.; Sandjo, L. P.; Misturini, A.; Caramori, G. F.; Biavatti, M. W. [*J. Mass Spectrom.* **2019**, *54*, 915-932](https://doi.org/10.1002/jms.4433)
+35. **What is the driving force behind molecular triangles and their guests? A quantum chemical perspective about host–guest interactions**, Nagurniak, G. R.; Piotrowski, M. J.; Muñoz-Castro, A.; Cascaldi, J. B. S.; Parreira, R. L. T.; Caramori, G. F. [*Phys. Chem. Chem. Phys.* **2020**, *22*, 19213-19222](https://doi.org/10.1039/D0CP01821J).
+
+36. **ESI‐QTof‐MS characterization of hirsutinolide and glaucolide sesquiterpene lactones: Fragmentation mechanisms and differentiation based on Na+/H+ adducts interactions in complex mixture**, da Silva, L. A. L.; Sandjo, L. P.; Misturini, A.; Caramori, G. F.; Biavatti, M. W. [*J. Mass Spectrom.* **2019**, *54*, 915-932](https://doi.org/10.1002/jms.4433)
 
 
 
