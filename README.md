@@ -20,7 +20,6 @@ Welcome to the [GEEM website](https://geem-lab.github.io/). We are located at th
 
 
 ***
-
 | **Contact** |
 | :-------- | 
 | Departamento de Química, CFM  | 
@@ -29,7 +28,6 @@ Welcome to the [GEEM website](https://geem-lab.github.io/). We are located at th
 | Phone: +55-48-3721-3644/3607 |
 | giovanni.caramori@ufsc.br |
 | luis.lacerda@ufsc.br |
-
 ***
 
 
